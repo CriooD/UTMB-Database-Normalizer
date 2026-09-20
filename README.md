@@ -216,8 +216,6 @@ Corredores:         1426\
 Resultados:         1426\
 Base de datos creada en: utmb.db
 
-<br />
-
 <h2>How to Run</h2>
 <ol>
   <li>Make sure Python 3.14 is installed.</li>
